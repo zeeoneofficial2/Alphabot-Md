@@ -8,7 +8,7 @@ const {
 
 //sebagian panel gk support opena ai jadi mungkin apikey lu bakalan di blokir
 //klo misalkan pada saat memakai fitur ai, terus dapat email dari open si, itu berarti website tempat lu install bot gk support ai
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "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" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -36,7 +36,7 @@ global.autolevelup = true
 global.auto_antilink = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
 global.auto_antilink2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
 global.auto_badword = false //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yg mengirim kata kasar
-global.auto_badword2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim kata kasar
+global.auto_badword2 = false //jika true, bot (admin) otomatis menghapus pesan member yang mengirim kata kasar
 global.auto_antiwame = false  //jika true, bot (admin) otomatis menghapus pesan & mengeluarkan member yang mengirim link grup
 global.auto_antiwame2 = true  //jika true, bot (admin) otomatis menghapus pesan member yang mengirim link grup
 global.autowelcome = true //auto welcome msg all group
@@ -54,18 +54,18 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Alphabot-Mdོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×" //nama kalian
+global.botname = "pacar jihoon" //namabot kalian
+global.ownername = "lily Deeva Roderick" //nama kalian
 global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
 global.myweb2 = "https://s.id/zeeoneofc" //bebas
 global.email = "zeeoneofc@gmail.com" //bebas
 global.region = "Indonesia" //bebas
-global.timezone = 'Asia/Makassar' //  timezone wib
+global.timezone = 'Asia/tarakan' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
-global.badword_list = ["asu", "anjir"] //tambahin sendiri kata² nya, gunakan huruf kecil
-global.premium = ['62887435047326'] //premium user
-global.owner = ["62887435047326", "62887435047326"] //ganti agar fitur owner bisa di gunakan
+global.badword_list = ["asu", "anjir", " shiball"] //tambahin sendiri kata² nya, gunakan huruf kecil
+global.premium = ['62895801509006'] //premium user
+global.owner = ["62895801509006", "6282346940310"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = owner[0] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
 global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
@@ -73,8 +73,8 @@ global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
-global.packname = '© ' + botname //sticker wm ubah
-global.author = 'Created By ' + ownername //sticker wm ganti nama kalian
+global.packname = '© ' + pacar jihoon //sticker wm ubah
+global.author = 'Created By ' + lily Deeva Roderick //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
 //type menu for menu
